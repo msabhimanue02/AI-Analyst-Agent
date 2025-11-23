@@ -110,4 +110,3 @@ python -m src.pipeline
 - Future improvements: retry logic on 429 with exponential backoff, richer categorization taxonomy, Dockerfile for reproducible runtime.
 
 ---
-Questions? Reach out via the recruitment email before the 72-hour deadline.
