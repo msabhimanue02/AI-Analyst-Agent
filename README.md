@@ -86,8 +86,7 @@ python -m src.pipeline
 | Data | `pandas` | Simple tabular export before CSV write. |
 | Config | `python-dotenv` | Keep secrets outside source files. |
 
-## Demo Requirement
-- Attach a Loom/YouTube link or a `demo/` screenshot folder when submitting. Example placeholder:
+## Demo Video
   - **Demo Video:** https://www.loom.com/share/2cff85474845416a80fa7c1cc2ddaafa
 
 ## Logic Flow Diagram
