@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment overrides (keep .env.example tracked)
+.env
+
+# Runtime data artifacts
+/data/raw/
+/data/processed/
+
+# OS cruft
+.DS_Store
+Thumbs.db
