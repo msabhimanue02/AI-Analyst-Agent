@@ -6,6 +6,7 @@ Automation pipeline that fetches AI news, deduplicates overlapping stories, and 
 
 ## Selected Challenge Task
 - **Track:** Automation Logic (Generative AI focus)
+- **Task:** Option 2 – “Analyst” Agent (Advanced Automation)
 - **Goal:** Build an automated flow that ingests unstructured content and produces structured intelligence with minimal manual effort.
 
 ## Project Overview
