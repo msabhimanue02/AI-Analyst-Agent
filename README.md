@@ -108,5 +108,3 @@ python -m src.pipeline
 - Code follows PEP 8 and is modular (`src/*`).
 - No unused folders/files remain (docs, notebooks, tests removed as requested).
 - Future improvements: retry logic on 429 with exponential backoff, richer categorization taxonomy, Dockerfile for reproducible runtime.
-
----
